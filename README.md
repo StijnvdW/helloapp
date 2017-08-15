@@ -1,2 +1,2 @@
-# helloapp
-Django hello world app
+# Hello world application
+Django hello world app.
